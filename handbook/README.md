@@ -42,7 +42,6 @@ This policy does not form part of any employee&#39;s contract of employment and 
   * [Data Protection Policy](information-security/data-protection-policy.md)
   * Incident Responses
   * [Information and Communications Systems Policy](information-security/info-communication-policy.md)
-  * [Login Credentials](information-security/1password-policy.md)
   * Operations Security
   * [People Security](people-security.md)
   * Physical Security

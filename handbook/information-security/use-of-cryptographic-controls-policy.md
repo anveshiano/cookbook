@@ -14,6 +14,14 @@ Our policy doesn't allow employees to use weak passwords or the same password fo
 
 On mobile devices, 1Password offers integrations with browsers and apps on iOS and Android devices using various methods.
 
+During on-boarding, you will be provided with a company-licensed 1Password vault for storing your passwords. You must use this for DVELP accounts. This includes using the 1Password password generator to create secure passwords.
+
+Storing login credentials for DVELP accounts anywhere other than 1Password is prohibited.
+
+Please note that although the 1Password account is licensed by DVELP, your personal vault is completely private to you. This allows you to use the 1Password vault for your personal accounts as well.
+
+For guidance on using and getting the most out of 1Password, please see [their website](https://support.1password.com/explore/get-started/).
+
 ## Device encryption and password policies
 
 Just having a strong password is not enough if someone has physically lost a device. Swapping your hard disk into another PC, Mac or linux computer allows for direct data access if the contents are not encrypted. Device encryption is a solution for protecting all of the data and information on a device. It converts all of the data stored on your device into a format that can only be read with the correct credentials.
